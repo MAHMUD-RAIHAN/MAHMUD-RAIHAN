@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ➪ 𝙼𝙰𝙷𝙼𝚄𝙳 𝚁𝙰𝙸𝙷𝙰𝙽</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right">alt="coding"width="400"src="https://www.dongtaituku.com/erciyuan/202205/1162809/">
+<img align="right">alt="coding"width="400"src="https://giphy.com/explore/coding">
 
 •➪ 𝙽𝙰𝙼𝙴 :- 𝙼𝙰𝙷𝙼𝚄𝙳 𝚁𝙰𝙸𝙷𝙰𝙽
 
