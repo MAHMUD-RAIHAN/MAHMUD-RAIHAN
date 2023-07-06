@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ➪ 𝙼𝙰𝙷𝙼𝚄𝙳 𝚁𝙰𝙸𝙷𝙰𝙽</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right">alt="coding"width="400"src="https://tenor.com/view/programmer-rounded-edges-gif-26214286">
 
 •➪ 𝙽𝙰𝙼𝙴 :- 𝙼𝙰𝙷𝙼𝚄𝙳 𝚁𝙰𝙸𝙷𝙰𝙽
 
