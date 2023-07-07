@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right">alt="coding"width="400"src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
-
 •➪ 𝙽𝙰𝙼𝙴 :- 𝙼𝙰𝙷𝙼𝚄𝙳 𝚁𝙰𝙸𝙷𝙰𝙽
 
 •➪ 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- 𝙸𝚂𝙻𝙰𝙼
